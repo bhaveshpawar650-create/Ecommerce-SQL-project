@@ -15,4 +15,5 @@ This project demonstrates an e-commerce database design and sales analysis using
 - JOIN
 - GROUP BY
 - HAVING
-- Aggregate Functions
+- Aggregate Functions.
+<a href=" https://github.com/bhaveshpawar650-create/Ecommerce-SQL-project/blob/main/ecoomerce_project.sql">code of sql</a>
